@@ -1,5 +1,7 @@
 import java.util.ArrayList;
-
+/*
+	Implement a class Stack<E> that manages an array list of elements of type E. Provide methods push, pop, and isEmpty	 
+*/
 public class Chapter6Excercise1 {
 
 	public static void main(String[] args) {
